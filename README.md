@@ -2,6 +2,7 @@
 This repository features a collection of multi-rotor related tasks: path planning on Ardupilot Mission Planner, YOLOv7 training for alphanumeric detection and a python script that outlines further processing,  and a rough scheme for how the hardware should be connected .
 
 RoboFlow was used for custom trained dataset with classes for alphanumerics which was then fed them into YOLOv7 model and accuracies were reported . 
+
 For the connections,
 Flight controller: The Cube Orange+ (PixHawk): Connect the Cube Orange+ flight controller to your mainboard or power distribution board using the appropriate wiring harness or cables. Ensure that all necessary connections are securely made.
 
